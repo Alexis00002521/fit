@@ -1,0 +1,98 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #ffffff;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  
+}
+
+.login-form {
+  flex: 1;
+  background: white;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.login-form h2 {
+  margin-bottom: 20px;
+}
+
+.login-form label {
+  margin-top: 10px;
+}
+
+.login-form input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #1A1363;
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.logo-section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-section img {
+  width: 550px;
+  margin-bottom: 20px;
+}
+
+.textLabel{
+color: #1A1363;
+}
+
+.back{
+  background-color: #ffffff;
+  color: #1A1363;
+  
+}
+
+.bt{
+  width: 200px;
+}
+
+.ck_mark{
+  display: flex;
+  justify-content: center;
+}
+
+
+.remember {
+  display: flex;
+  flex-direction: row;
+  gap: 8px; 
+  
+}
+
+
+
+
