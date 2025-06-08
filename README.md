@@ -1,6 +1,9 @@
 # Iniciando Proyecto stamina fitness
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto tiene su figma y mackups [FIGMA](https://www.figma.com/design/ZIFQKokZH63D2xtGxS9Yv2/FIT-WEB--APP?node-id=0-1&p=f&t=vLUMjiWCXAqQOmL4-0).
+
+
 
 ## Available Scripts
 
